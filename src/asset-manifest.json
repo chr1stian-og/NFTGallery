@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VirtualGallery/static/css/main.c4a18130.css",
+    "main.js": "/VirtualGallery/static/js/main.2f20db07.js",
+    "index.html": "/VirtualGallery/index.html",
+    "main.c4a18130.css.map": "/VirtualGallery/static/css/main.c4a18130.css.map",
+    "main.2f20db07.js.map": "/VirtualGallery/static/js/main.2f20db07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4a18130.css",
+    "static/js/main.2f20db07.js"
+  ]
+}

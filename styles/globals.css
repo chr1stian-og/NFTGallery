@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "helv";
+  src: url("/Helvetica.ttf");
+}
+
+body {
+  font-family: "helv";
+  color: white;
+  background-color: black;
+}

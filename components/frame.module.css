@@ -1,0 +1,40 @@
+.body {
+  margin: 0;
+  padding: 0;
+  background-color: gray;
+}
+
+.pin_container {
+  margin: 0;
+  padding: 0;
+  width: 80vw;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 250);
+  grid-auto-rows: 10px;
+  justify-content: center;
+
+  background: black;
+}
+
+.card {
+  padding: 0px;
+  margin: 15px 10px;
+  border-radius: 16px;
+  background-color: red;
+}
+
+.card_small {
+  grid-row-end: span 26;
+}
+
+.card_medium {
+  grid-row-end: span 33;
+}
+
+.card_large {
+  grid-row-end: span 46;
+}
